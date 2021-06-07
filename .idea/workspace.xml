@@ -66,6 +66,15 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
       <path value="$PROJECT_DIR$/vendor/symfony/runtime" />
       <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/symfony/webpack-encore-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
     </include_path>
   </component>
   <component name="ProjectId" id="1tdBQSBiHKR3SltC7stOtfxlPSD" />
@@ -105,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623088455625</updated>
       <workItem from="1623088458276" duration="604000" />
-      <workItem from="1623089074066" duration="588000" />
+      <workItem from="1623089074066" duration="2031000" />
     </task>
     <servers />
   </component>
@@ -113,6 +122,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="711" y="337" width="487" height="412" key="NewPhpClassDialog" timestamp="1623090170019">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="711" y="337" width="487" height="412" key="NewPhpClassDialog/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1623090170019" />
     <state x="449" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1623089059274">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -121,6 +134,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="616" y="367" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1623089074850" />
+    <state x="624" y="245" width="672" height="677" key="run.anything.popup" timestamp="1623090007451">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="245" width="672" height="677" key="run.anything.popup/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1623090007451" />
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1623089461740">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

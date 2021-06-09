@@ -176,6 +176,9 @@
     "symfony/twig-pack": {
         "version": "v1.0.1"
     },
+    "symfony/ux-swup": {
+        "version": "v1.3.0"
+    },
     "symfony/var-dumper": {
         "version": "v5.3.0"
     },

@@ -11,3 +11,13 @@ import './styles/app.css';
 // start the Stimulus application
 import './bootstrap';
 
+import Swup from 'swup';
+import SwupOverlayTheme from '@swup/overlay-theme';
+const swup = new Swup({
+    plugins: [new SwupOverlayTheme({
+        color: '#198754',
+        duration: 300,
+        direction: 'to-right',
+    })]
+});
+

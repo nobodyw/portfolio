@@ -14,6 +14,13 @@ class Accueil extends AbstractController
      * @Route("/", name="home")
      */
     public function Home(){
-        return $this->render('base.html.twig');
+        return $this->render("home.html.twig");
+    }
+
+    /**
+     * @Route("/redirect", name="redirectTest")
+     */
+    public function redirectTest(){
+        return $this->render('redirect.html.twig');
     }
 }

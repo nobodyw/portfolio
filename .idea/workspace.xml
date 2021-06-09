@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7283504b-8eb7-4a82-abc0-f13c3a5fa1a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/redirect.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/controllers.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/controllers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/controllers/hello_controller.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/Accueil.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Accueil.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +85,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
       <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
       <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/ux-swup" />
     </include_path>
   </component>
   <component name="ProjectId" id="1tdBQSBiHKR3SltC7stOtfxlPSD" />
@@ -90,6 +101,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -114,7 +126,9 @@
       <option name="presentableId" value="Default" />
       <updated>1623088455625</updated>
       <workItem from="1623088458276" duration="604000" />
-      <workItem from="1623089074066" duration="2031000" />
+      <workItem from="1623089074066" duration="3086000" />
+      <workItem from="1623145169567" duration="2824000" />
+      <workItem from="1623257649467" duration="5230000" />
     </task>
     <servers />
   </component>
@@ -122,6 +136,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="201" width="800" height="684" key="#Inspections" timestamp="1623092043972">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="201" width="800" height="684" key="#Inspections/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1623092043972" />
     <state x="711" y="337" width="487" height="412" key="NewPhpClassDialog" timestamp="1623090170019">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -130,17 +148,21 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="449" y="175" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1623089059274" />
-    <state x="616" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1623089074850">
+    <state x="616" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1623258339158">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="616" y="367" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1623089074850" />
+    <state x="616" y="367" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1623258339158" />
     <state x="624" y="245" width="672" height="677" key="run.anything.popup" timestamp="1623090007451">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="624" y="245" width="672" height="677" key="run.anything.popup/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1623090007451" />
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1623089461740">
+    <state x="550" y="205" width="800" height="684" key="scopes" timestamp="1623092002941">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1623089461740" />
+    <state x="550" y="205" width="800" height="684" key="scopes/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1623092002941" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1623262138724">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1623262138724" />
   </component>
 </project>
